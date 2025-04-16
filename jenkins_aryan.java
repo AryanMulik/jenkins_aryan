@@ -7,10 +7,10 @@ public class jenkins_aryan {
 
     public static void main(String[] args) {
         // Print Hello, World!
-        System.out.println("Hello, World!");
+        System.out.println("Hello, Good Morniing, How was your day !!!");
 
         // Example of adding two numbers
-        int num1 = 5;
+        int num1 = 25;
         int num2 = 10;
         int sum = add(num1, num2);
         
